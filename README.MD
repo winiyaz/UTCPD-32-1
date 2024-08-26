@@ -3,5 +3,5 @@
 > Work for EmailAndDates
 
 $$
-\color{yellow}{\underline{\underline{\text{DrinkHerPiss}}}}
+\Huge\color{yellow}{\underline{\underline{\text{DrinkHerPiss}}}}
 $$
