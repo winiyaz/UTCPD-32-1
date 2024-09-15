@@ -15,4 +15,4 @@ $$
 # Main Feat
 
 1. AutoEmail sending and dates package 
-2. Conntiuation of this in GHC
+2. Conntiuation of this in GHC and usage with codeiumza
