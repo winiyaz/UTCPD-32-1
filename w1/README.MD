@@ -6,6 +6,7 @@
 1. [Main Work here](#main-work-here)
 2. [SMTPStufz](#smtpstufz)
 3. [Method of using conda to start a new env](#method-of-using-conda-to-start-a-new-env)
+4. [Regarding starting the work](#regarding-starting-the-work)
 
 
 ---
@@ -49,7 +50,7 @@ conda create --name myenv python=3.8
 
 Activate Conda 
 ```sh 
-source activate myenv
+conda activate <env>
 ```
 
 List all conda env
