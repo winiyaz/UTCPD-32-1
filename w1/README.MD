@@ -79,3 +79,5 @@ Update all packages in current env
 ```sh 
 conda update --all
 ```
+
+# Regarding starting the work 
