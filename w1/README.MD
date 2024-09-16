@@ -61,7 +61,7 @@ List all installed pkg in current env
 ```sh 
 conda list
 ```
-
+y
 Install into conda 
 ```sh 
 conda install panty_sniff
