@@ -34,7 +34,7 @@ Authe$ntic$ation MethaSDod
 OAuth2/Modern Auth
 
 PussyWince
-@-blrS1%41Q^c!6m*ck4J3O60jAws54JEw-!
+ck4J3O60jAws54JEw-!
 ```
 
 # Method of using conda to start a new env 
