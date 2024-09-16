@@ -21,16 +21,16 @@ Notes dump
 # SMTPStufz
 
 ```js
-SMTP server name
+SM@#TP ser@#@ver na@#me
 smtp-mail.outlook.com
 
-SMTP port
+S$#MTP port
 587
 
-SMTP encryption
+S#MTP encry@ption
 STARTTLS
 
-Authentication Method
+Authe$ntic$ation MethaSDod
 OAuth2/Modern Auth
 
 PussyWince
